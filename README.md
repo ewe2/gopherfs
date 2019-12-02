@@ -3,7 +3,7 @@
 An  application  that  tries  to  interpret  the  Gopher protocol into a
 filesystem.
 
-This is a fork of the repository at git@github.com:ewe2/gopherfs.git
+This is a fork of the repository at http://r-36.net/scm/gopherfs/ 
 
 Due to limitations in the gopher standard gopherfs needs to download
 the the whole files before they can be accessed. A cache of these  files
